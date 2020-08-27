@@ -1,0 +1,609 @@
+Gender,Ethnicity,Jaundice,COR,Score,Age,TestGiver,Autistic
+m,Latino,no,Brazil,5,24,Self,NO
+m,Latino,yes,Spain,8,27,Parent,YES
+f,White+AC0-European,no,'United States',6,35,Self,NO
+m,Others,yes,'United States',9,36,Self,YES
+f,Black,no,'United States',2,17,Self,NO
+m,White+AC0-European,no,'New Zealand',5,64,Parent,NO
+m,White+AC0-European,no,'United States',6,29,Self,NO
+m,Asian,yes,Bahamas,8,17,'Health care professional',YES
+m,White+AC0-European,no,'United States',10,33,Relative,YES
+f,'Middle Eastern ',no,Burundi,6,18,Parent,NO
+m,'Middle Eastern ',no,'New Zealand',6,18,Parent,NO
+m,'Middle Eastern ',no,Jordan,5,31,Self,NO
+m,White+AC0-European,no,Ireland,2,30,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',3,35,Self,NO
+f,Black,no,'United Arab Emirates',0,27,Self,NO
+m,'Middle Eastern ',no,Afghanistan,5,27,Self,NO
+m,'Middle Eastern ',yes,'United Arab Emirates',2,42,Relative,NO
+m,Pasifika,yes,'United Arab Emirates',1,40,Self,NO
+m,'Middle Eastern ',yes,Afghanistan,1,40,Parent,NO
+m,Black,no,'New Zealand',1,48,Self,NO
+m,'Middle Eastern ',no,'United Kingdom',4,31,Self,NO
+m,White+AC0-European,no,'United Kingdom',0,18,Self,NO
+f,White+AC0-European,no,'United States',7,37,Self,YES
+f,Others,no,'New Zealand',4,55,Self,NO
+f,White+AC0-European,yes,'South Africa',10,18,Self,YES
+f,White+AC0-European,no,'South Africa',10,18,Self,YES
+m,White+AC0-European,no,'New Zealand',1,55,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',6,50,Self,NO
+f,White+AC0-European,no,'New Zealand',6,34,Self,NO
+f,White+AC0-European,no,'New Zealand',7,53,Self,YES
+f,White+AC0-European,no,'United States',8,35,Self,YES
+f,Latino,yes,Italy,7,20,Self,YES
+f,Asian,no,Pakistan,2,28,Self,NO
+f,'Middle Eastern ',no,Egypt,3,34,Self,NO
+f,White+AC0-European,yes,'United States',4,36,Self,NO
+f,White+AC0-European,no,'New Zealand',8,27,Self,YES
+f,White+AC0-European,no,'New Zealand',7,53,Relative,YES
+f,Pasifika,no,'New Zealand',5,24,Relative,NO
+m,Pasifika,no,'New Zealand',4,24,Relative,NO
+m,White+AC0-European,no,'New Zealand',3,55,Relative,NO
+f,Asian,no,Bangladesh,6,30,Self,NO
+f,Latino,no,Chile,3,21,Self,NO
+f,Black,no,France,10,35,Parent,YES
+f,Pasifika,no,'New Zealand',1,383,Self,NO
+m,Latino,no,Brazil,8,21,Self,YES
+m,White+AC0-European,no,'United States',10,47,Self,YES
+f,Asian,no,China,9,30,Self,YES
+f,White+AC0-European,no,Australia,8,28,Self,YES
+f,White+AC0-European,no,Australia,9,43,Self,YES
+f,'South Asian',no,Canada,3,32,Self,NO
+f,White+AC0-European,no,Australia,5,44,Self,NO
+f,Others,no,Canada,8,20,Self,YES
+f,Others,no,Canada,7,20,Self,YES
+m,White+AC0-European,no,Australia,5,19,Parent,NO
+f,White+AC0-European,no,Australia,9,29,Self,YES
+m,'Middle Eastern ',no,'United States',3,21,Self,NO
+m,'Middle Eastern ',no,France,2,27,Parent,NO
+m,Hispanic,no,'United States',6,21,Self,NO
+m,'Middle Eastern ',no,'Saudi Arabia',4,35,Self,NO
+m,Black,no,'New Zealand',1,42,Self,NO
+f,'South Asian',no,'New Zealand',5,29,Self,NO
+m,Asian,no,'New Zealand',3,58,Self,NO
+m,Others,no,'United States',6,21,Self,NO
+m,Others,no,'United States',6,21,Self,NO
+f,White+AC0-European,no,'United States',6,37,Self,NO
+m,Hispanic,no,'United States',7,21,Self,YES
+m,'Middle Eastern ',no,'United States',3,20,Self,NO
+f,Black,no,'United States',8,33,Self,YES
+m,'Middle Eastern ',no,'United States',4,20,Self,NO
+f,White+AC0-European,no,Netherlands,10,33,Self,YES
+f,'Middle Eastern ',no,Jordan,4,42,Self,NO
+f,White+AC0-European,no,'New Zealand',2,17,Self,NO
+f,'Middle Eastern ',no,'United States',3,27,Self,NO
+f,'Middle Eastern ',no,Afghanistan,8,35,Parent,YES
+m,White+AC0-European,no,'United Kingdom',1,37,Self,NO
+f,White+AC0-European,no,'United Kingdom',4,30,Self,NO
+f,White+AC0-European,no,'New Zealand',9,29,Self,YES
+f,White+AC0-European,no,Romania,4,17,Self,NO
+f,Pasifika,no,'New Zealand',5,22,Self,NO
+f,Latino,no,Brazil,8,19,Self,YES
+f,White+AC0-European,no,Sweden,8,42,Self,YES
+f,White+AC0-European,no,'United Kingdom',4,37,Self,NO
+f,White+AC0-European,no,Australia,4,28,Self,NO
+m,Others,no,'New Zealand',4,22,Self,NO
+f,Pasifika,no,Tonga,3,26,Self,NO
+m,Pasifika,no,Oman,1,21,Self,NO
+f,'South Asian',no,India,3,26,Self,NO
+f,Asian,no,Philippines,2,39,Self,NO
+m,Asian,no,'New Zealand',3,26,Self,NO
+m,Asian,no,India,5,26,Self,NO
+m,'South Asian',no,India,4,21,Self,NO
+m,Asian,no,India,0,25,Self,NO
+m,'South Asian',no,'New Zealand',6,26,Self,NO
+f,White+AC0-European,no,'United States',7,30,Self,YES
+f,Asian,no,India,5,19,Parent,NO
+f,Asian,no,India,3,19,Parent,NO
+f,White+AC0-European,no,'New Zealand',9,25,Self,YES
+m,White+AC0-European,no,'United Kingdom',6,23,Self,NO
+m,Asian,no,'Sri Lanka',3,31,Parent,NO
+m,Asian,no,'New Zealand',4,27,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',8,29,Self,YES
+f,White+AC0-European,no,'United Kingdom',7,38,Parent,YES
+f,White+AC0-European,no,'United States',8,23,Self,YES
+m,White+AC0-European,no,'United States',6,27,Self,NO
+f,White+AC0-European,no,Canada,9,27,Self,YES
+m,White+AC0-European,no,'United States',7,42,Self,YES
+m,White+AC0-European,no,'United Kingdom',9,20,Self,YES
+f,White+AC0-European,no,'United States',9,17,Self,YES
+f,Black,no,Spain,1,20,Self,NO
+m,Asian,yes,'Sierra Leone',7,30,Self,YES
+f,White+AC0-European,no,Australia,9,28,Self,YES
+f,White+AC0-European,no,'New Zealand',7,26,Self,YES
+f,White+AC0-European,no,Australia,0,26,Self,NO
+m,'Middle Eastern ',no,Canada,6,31,Self,NO
+f,White+AC0-European,no,'United Kingdom',5,40,Self,NO
+f,White+AC0-European,no,Ireland,4,39,Relative,NO
+f,White+AC0-European,no,'United States',3,18,Self,NO
+m,Black,no,Ethiopia,3,24,Self,NO
+m,'South Asian',no,India,3,23,Self,NO
+m,Asian,no,India,5,24,Self,NO
+m,Asian,no,'New Zealand',5,24,Self,NO
+m,Asian,no,'New Zealand',6,27,Self,NO
+m,Asian,no,'New Zealand',5,24,Self,NO
+m,Asian,no,India,2,25,Self,NO
+m,Asian,no,'New Zealand',3,22,Self,NO
+f,Asian,no,'New Zealand',2,40,Self,NO
+m,Asian,no,India,4,23,Self,NO
+m,'South Asian',no,India,2,29,Self,NO
+m,Asian,no,India,3,25,Self,NO
+m,Asian,no,India,4,27,Self,NO
+m,'South Asian',no,'New Zealand',1,22,Self,NO
+m,White+AC0-European,no,'United States',8,28,Parent,YES
+m,White+AC0-European,no,Australia,9,20,Self,YES
+f,White+AC0-European,no,Romania,10,19,Self,YES
+f,Others,no,'United States',7,37,Self,YES
+m,White+AC0-European,yes,'United States',8,35,Self,YES
+m,Asian,no,'New Zealand',2,26,Self,NO
+m,Asian,no,'Viet Nam',7,23,Self,YES
+f,'South Asian',no,'New Zealand',4,32,Self,NO
+m,Asian,no,'Sri Lanka',5,30,Self,NO
+m,Asian,no,'Sri Lanka',4,31,Self,NO
+f,Asian,no,'New Zealand',3,28,Self,NO
+f,Asian,no,'Sri Lanka',4,29,Self,NO
+f,'South Asian',no,'Sri Lanka',4,29,Self,NO
+f,Asian,no,India,4,29,Self,NO
+m,Asian,no,India,3,31,Self,NO
+m,Asian,no,India,0,36,Parent,NO
+f,'South Asian',no,India,2,32,Self,NO
+f,'South Asian',no,'New Zealand',1,34,Self,NO
+m,Asian,no,'Sri Lanka',3,24,Self,NO
+f,Asian,no,'New Zealand',6,24,Self,NO
+m,Asian,no,'Sri Lanka',5,42,Self,NO
+f,Others,no,India,4,26,Self,NO
+f,Asian,no,'Sri Lanka',4,27,Self,NO
+f,Latino,no,Brazil,6,36,Self,NO
+f,Latino,no,Brazil,8,36,Self,YES
+m,Hispanic,no,'United States',6,55,Self,NO
+f,Asian,no,'New Zealand',4,23,Self,NO
+f,Asian,no,'Sri Lanka',4,22,Self,NO
+f,'Middle Eastern ',no,France,2,42,Parent,NO
+m,White+AC0-European,no,Canada,3,54,Self,NO
+f,Black,no,'United States',6,43,Self,NO
+f,Black,no,'United States',9,43,Self,YES
+m,'Middle Eastern ',no,Iran,6,29,Self,NO
+m,'Middle Eastern ',no,Iran,5,29,Self,NO
+m,White+AC0-European,no,Australia,4,37,Self,NO
+f,White+AC0-European,no,Australia,4,39,Self,NO
+f,Asian,no,'Viet Nam',5,18,Self,NO
+m,White+AC0-European,no,'United States',6,31,Others,NO
+m,Asian,no,'New Zealand',4,34,Self,NO
+m,White+AC0-European,no,'United States',5,22,Self,NO
+m,'South Asian',no,India,7,28,Self,YES
+m,Others,no,Netherlands,4,38,Self,NO
+f,White+AC0-European,no,Australia,4,28,Self,NO
+f,White+AC0-European,no,'United States',8,53,Self,YES
+m,White+AC0-European,no,'United Kingdom',5,26,Self,NO
+m,White+AC0-European,no,'United Kingdom',9,37,Self,YES
+m,Latino,yes,'Costa Rica',5,42,Parent,NO
+m,Hispanic,no,'United States',3,43,Self,NO
+f,Asian,no,'United Kingdom',2,32,Self,NO
+m,White+AC0-European,no,'United Kingdom',3,31,Self,NO
+f,White+AC0-European,no,'United States',9,53,Self,YES
+m,White+AC0-European,no,'United States',10,28,Self,YES
+m,White+AC0-European,no,Germany,9,38,Self,YES
+m,White+AC0-European,no,'United States',7,31,Self,YES
+f,Pasifika,no,'United States',4,31,Self,NO
+f,White+AC0-European,no,Australia,9,21,Self,YES
+f,White+AC0-European,no,'United States',6,25,Self,NO
+f,White+AC0-European,no,'United States',7,25,Self,YES
+f,White+AC0-European,no,'United States',9,60,Relative,YES
+m,White+AC0-European,no,'United States',3,39,Self,NO
+m,White+AC0-European,no,'United States',10,53,Self,YES
+m,'Middle Eastern ',no,'United States',10,20,Parent,YES
+f,White+AC0-European,no,'United States',7,25,Self,YES
+m,White+AC0-European,no,'United Kingdom',6,50,Self,NO
+f,White+AC0-European,no,'United States',8,28,Self,YES
+f,White+AC0-European,no,'United Kingdom',9,37,Self,YES
+m,Asian,no,India,5,30,Self,NO
+f,White+AC0-European,no,'United Kingdom',6,32,Self,NO
+f,White+AC0-European,no,'United States',4,34,Self,NO
+m,White+AC0-European,no,'United States',5,42,Self,NO
+f,Black,no,Spain,8,22,Self,YES
+m,White+AC0-European,no,'United States',4,39,Parent,NO
+m,White+AC0-European,no,Bangladesh,7,18,Self,YES
+f,White+AC0-European,no,'United States',2,54,Parent,NO
+m,White+AC0-European,no,'United Kingdom',3,42,Self,NO
+m,White+AC0-European,no,'United Kingdom',6,22,Self,NO
+m,White+AC0-European,no,'United Kingdom',8,22,Self,YES
+f,White+AC0-European,no,'United Kingdom',9,21,Self,YES
+f,White+AC0-European,no,'United States',4,28,Self,NO
+m,Asian,yes,India,9,17,Relative,YES
+m,White+AC0-European,no,'United States',1,28,Self,NO
+m,Latino,no,Mexico,5,21,Self,NO
+f,Asian,no,'New Zealand',10,31,Self,YES
+m,'South Asian',no,'New Zealand',3,20,Self,NO
+m,White+AC0-European,no,'United Kingdom',2,21,Self,NO
+m,White+AC0-European,no,'New Zealand',3,22,Self,NO
+m,White+AC0-European,no,'New Zealand',4,21,Self,NO
+m,Black,no,'New Zealand',2,24,Self,NO
+m,'South Asian',no,India,2,24,Self,NO
+m,Asian,no,'New Zealand',6,25,Self,NO
+m,'South Asian',no,'New Zealand',2,17,Self,NO
+m,Pasifika,no,'New Zealand',2,23,Self,NO
+m,Asian,no,'New Zealand',5,21,Self,NO
+m,Others,no,'New Zealand',6,22,Self,NO
+f,Asian,no,India,4,24,Self,NO
+m,Others,no,'New Zealand',5,34,Self,NO
+m,Asian,no,'New Zealand',6,30,Self,NO
+f,Asian,no,India,4,29,Self,NO
+m,Pasifika,no,'New Zealand',5,20,Self,NO
+m,White+AC0-European,no,'New Zealand',6,23,Self,NO
+m,Asian,no,India,2,26,Self,NO
+m,'South Asian',no,'New Zealand',8,20,Self,YES
+m,Asian,no,'New Zealand',3,41,Self,NO
+m,Asian,no,India,4,24,Self,NO
+m,Asian,no,India,2,35,Self,NO
+m,'South Asian',no,India,2,23,Self,NO
+m,White+AC0-European,no,'New Zealand',3,36,Self,NO
+m,Turkish,no,Armenia,4,33,Self,NO
+m,'South Asian',no,India,5,24,Self,NO
+m,Asian,no,India,5,25,Self,NO
+m,Asian,no,India,5,25,Self,NO
+m,Asian,no,India,3,24,Self,NO
+f,'South Asian',no,India,5,27,Self,NO
+m,Asian,no,India,3,26,Self,NO
+m,Others,no,'New Zealand',0,26,Self,NO
+f,Asian,no,India,4,23,Self,NO
+m,Asian,no,'New Zealand',7,30,Self,YES
+m,Asian,no,Iceland,3,25,Self,NO
+m,Pasifika,no,'New Zealand',3,23,Self,NO
+f,White+AC0-European,no,'United States',5,34,Self,NO
+f,Asian,no,'New Zealand',6,20,Self,NO
+f,Black,no,France,7,33,Parent,YES
+m,White+AC0-European,no,Netherlands,10,46,Self,YES
+m,White+AC0-European,no,'United Kingdom',2,17,Others,NO
+f,White+AC0-European,no,'United States',4,45,Self,NO
+m,Asian,no,India,4,26,Others,NO
+f,White+AC0-European,no,'United Kingdom',9,38,Self,YES
+m,Hispanic,yes,Nicaragua,3,26,Self,NO
+f,Hispanic,no,'United States',1,29,Self,NO
+m,White+AC0-European,no,Australia,8,33,Self,YES
+f,Black,no,France,7,32,Parent,YES
+f,White+AC0-European,no,'United States',10,44,Self,YES
+f,White+AC0-European,yes,'United Kingdom',3,47,Self,NO
+m,White+AC0-European,no,'New Zealand',0,40,Self,NO
+m,White+AC0-European,no,'United States',5,40,Self,NO
+f,White+AC0-European,no,'New Zealand',0,44,Self,NO
+m,White+AC0-European,yes,'United Kingdom',8,56,Self,YES
+f,White+AC0-European,no,Ireland,8,23,Self,YES
+f,Black,no,Canada,7,32,Self,YES
+m,White+AC0-European,no,'United Kingdom',5,27,Self,NO
+f,White+AC0-European,no,'United Kingdom',4,28,Self,NO
+f,'Middle Eastern ',no,Afghanistan,0,40,Parent,NO
+f,White+AC0-European,no,Canada,7,45,Self,YES
+f,White+AC0-European,yes,'United Kingdom',8,19,Parent,YES
+m,White+AC0-European,no,'United States',8,55,Others,YES
+f,White+AC0-European,yes,Australia,5,27,Self,NO
+f,White+AC0-European,yes,'United Kingdom',9,19,Self,YES
+m,White+AC0-European,no,Ireland,3,29,Self,NO
+f,White+AC0-European,yes,'United Kingdom',10,33,Self,YES
+f,White+AC0-European,no,Netherlands,6,48,Self,NO
+f,Others,no,'United Kingdom',2,37,Self,NO
+m,Asian,no,Afghanistan,6,30,Self,NO
+f,White+AC0-European,no,'United Kingdom',4,37,Self,NO
+f,White+AC0-European,no,Austria,8,20,Self,YES
+f,Others,no,'United States',8,25,Self,YES
+f,'Middle Eastern ',no,'United Kingdom',7,58,Self,YES
+f,White+AC0-European,no,'United States',2,36,Self,NO
+m,White+AC0-European,yes,'United States',4,36,Self,NO
+m,Hispanic,no,'United States',7,19,Self,YES
+m,Hispanic,no,'United States',7,19,Self,YES
+f,White+AC0-European,no,'New Zealand',5,22,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,24,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,19,Self,NO
+m,Others,no,'United Arab Emirates',6,21,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',0,20,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',2,18,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,23,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',8,22,Self,YES
+f,'South Asian',no,Bangladesh,4,18,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',5,18,Relative,NO
+m,'Middle Eastern ',no,'United Arab Emirates',5,18,Relative,NO
+m,'Middle Eastern ',no,'United Arab Emirates',2,18,Relative,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,18,Relative,NO
+m,'Middle Eastern ',no,'United Arab Emirates',3,18,Relative,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,18,Relative,NO
+m,White+AC0-European,no,Austria,10,19,Self,YES
+m,White+AC0-European,no,'United Kingdom',7,55,Self,YES
+f,Asian,no,Canada,5,32,Parent,NO
+m,White+AC0-European,yes,'United Kingdom',5,50,Self,NO
+m,White+AC0-European,no,'United Kingdom',6,40,Self,NO
+m,'Middle Eastern ',no,Jordan,4,47,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,22,Parent,NO
+f,'Middle Eastern ',no,'United Arab Emirates',2,19,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,22,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',2,20,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,23,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',3,20,Parent,NO
+m,'Middle Eastern ',no,'United Arab Emirates',2,24,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,19,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',5,23,Self,NO
+m,Others,no,Russia,4,20,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',5,20,Self,NO
+f,Asian,no,Afghanistan,5,21,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',3,20,Self,NO
+m,'Middle Eastern ',no,'Saudi Arabia',5,20,Self,NO
+m,'Middle Eastern ',yes,Armenia,3,25,Relative,NO
+f,'Middle Eastern ',no,'United Arab Emirates',2,20,Self,NO
+m,'Middle Eastern ',no,AmericanSamoa,5,22,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',2,20,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',6,21,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,23,Self,NO
+f,Turkish,no,'United Arab Emirates',3,21,Self,NO
+f,Black,no,'United Arab Emirates',5,22,Self,NO
+f,Asian,no,'United Arab Emirates',4,20,Self,NO
+f,Others,no,'United Arab Emirates',3,21,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',3,26,Self,NO
+f,Black,no,'United Arab Emirates',4,23,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',3,19,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',3,20,Self,NO
+f,Black,no,'United Arab Emirates',5,19,Self,NO
+m,Asian,no,India,8,24,Self,YES
+f,'South Asian',no,'United Arab Emirates',5,19,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',2,22,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,20,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',3,21,Self,NO
+f,Others,no,'United Arab Emirates',4,24,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,18,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',7,19,Self,YES
+f,'Middle Eastern ',no,'United Arab Emirates',2,19,Self,NO
+m,'Middle Eastern ',yes,'United Arab Emirates',4,31,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',5,19,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,21,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,20,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',6,26,Self,NO
+m,'Middle Eastern ',no,Afghanistan,1,27,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,23,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',5,23,Self,NO
+m,Turkish,no,'United Arab Emirates',4,23,Others,NO
+m,Asian,no,India,8,24,Self,YES
+f,Black,no,France,9,32,Parent,YES
+m,White+AC0-European,yes,Uruguay,10,61,Self,YES
+f,White+AC0-European,no,Italy,8,35,Self,YES
+f,White+AC0-European,no,Ukraine,3,34,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',2,23,Self,NO
+f,White+AC0-European,no,Serbia,5,19,Self,NO
+f,Others,no,Philippines,6,36,Parent,NO
+m,White+AC0-European,no,'United States',2,23,Self,NO
+m,Black,no,'United States',6,17,Relative,NO
+m,White+AC0-European,no,Portugal,2,22,Self,NO
+m,White+AC0-European,no,Australia,6,33,Relative,NO
+f,Asian,no,Malaysia,7,23,Self,YES
+f,White+AC0-European,no,Sweden,7,35,Self,YES
+m,White+AC0-European,no,Australia,3,21,Self,NO
+f,White+AC0-European,no,Austria,7,20,Self,YES
+m,White+AC0-European,no,Netherlands,2,29,'Health care professional',NO
+m,White+AC0-European,no,'United States',9,59,Self,YES
+f,White+AC0-European,no,Netherlands,5,18,Self,NO
+f,'Middle Eastern ',no,'United Arab Emirates',3,19,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',3,24,Self,NO
+f,White+AC0-European,no,Italy,7,36,Self,YES
+f,Black,no,'United Arab Emirates',3,17,Self,NO
+m,White+AC0-European,yes,'United Kingdom',3,52,Self,NO
+m,'Middle Eastern ',no,'United Arab Emirates',4,18,Self,NO
+m,Asian,no,Philippines,1,30,Self,NO
+m,'Middle Eastern ',yes,'New Zealand',8,18,Self,YES
+m,Latino,no,Ecuador,6,27,Self,NO
+f,White+AC0-European,no,'United Kingdom',1,52,Self,NO
+f,Asian,no,'Viet Nam',1,45,Self,NO
+f,Others,no,Afghanistan,6,25,'Health care professional',NO
+f,White+AC0-European,no,'United Kingdom',3,29,Self,NO
+f,White+AC0-European,yes,'United States',8,29,Self,YES
+m,White+AC0-European,no,Netherlands,3,18,Self,NO
+m,White+AC0-European,no,Netherlands,7,18,Relative,YES
+m,White+AC0-European,no,Netherlands,5,17,Relative,NO
+f,Asian,no,'United States',10,27,Self,YES
+f,Asian,yes,Malaysia,1,22,Self,NO
+m,Asian,no,India,3,23,Self,NO
+m,Latino,no,'United Kingdom',7,25,Self,YES
+f,'South Asian',no,'New Zealand',4,23,Self,NO
+m,Asian,no,India,3,29,Self,NO
+f,Asian,no,'Sri Lanka',4,27,Self,NO
+f,Asian,no,India,3,27,Self,NO
+f,'South Asian',no,India,0,43,Parent,NO
+f,Asian,no,India,2,26,Self,NO
+f,Asian,no,India,4,30,Self,NO
+m,White+AC0-European,no,India,1,23,Self,NO
+f,Asian,no,'Sri Lanka',4,29,Self,NO
+m,White+AC0-European,no,'United Kingdom',2,37,Parent,NO
+f,White+AC0-European,no,'United Kingdom',2,28,Self,NO
+m,'South Asian',no,'United States',6,25,Self,NO
+m,Others,no,India,5,25,Self,NO
+m,White+AC0-European,no,'United Kingdom',9,43,Self,YES
+f,White+AC0-European,no,'United States',7,30,Self,YES
+m,Black,no,Niger,4,18,Self,NO
+f,White+AC0-European,no,Romania,5,18,Self,NO
+m,Others,no,Canada,7,30,Self,YES
+f,White+AC0-European,no,Germany,0,31,Self,NO
+m,Latino,no,Mexico,5,33,Self,NO
+m,Latino,no,Mexico,10,33,Self,YES
+m,White+AC0-European,no,'United Kingdom',6,26,Self,NO
+f,White+AC0-European,no,'United States',3,61,Self,NO
+m,Others,no,'Viet Nam',3,46,Self,NO
+m,Asian,no,India,8,33,Self,YES
+f,Black,no,Canada,8,38,Self,YES
+m,Black,no,France,3,44,Parent,NO
+f,Black,no,France,5,48,Parent,NO
+f,Latino,yes,Mexico,8,42,Self,YES
+m,White+AC0-European,no,Belgium,4,37,Self,NO
+f,White+AC0-European,no,'United Kingdom',6,23,Self,NO
+m,White+AC0-European,no,'United Kingdom',8,24,Relative,YES
+m,Asian,no,'United Kingdom',4,41,Self,NO
+m,White+AC0-European,no,Belgium,4,27,Self,NO
+f,White+AC0-European,yes,'United Kingdom',10,46,Self,YES
+f,White+AC0-European,yes,'United States',2,40,Self,NO
+f,White+AC0-European,no,'United States',8,22,Self,YES
+m,White+AC0-European,no,'United Kingdom',9,42,Self,YES
+f,Asian,no,'Viet Nam',4,18,Self,NO
+f,White+AC0-European,no,'United Kingdom',3,44,Self,NO
+f,White+AC0-European,no,'United States',9,30,Self,YES
+m,White+AC0-European,no,Australia,9,42,Self,YES
+f,White+AC0-European,no,'United States',4,35,Parent,NO
+m,Black,no,AmericanSamoa,7,40,Self,YES
+m,'Middle Eastern ',no,Egypt,3,38,Self,NO
+f,White+AC0-European,no,Italy,8,26,Self,YES
+f,White+AC0-European,no,Malaysia,7,27,Self,YES
+f,White+AC0-European,yes,'United States',7,47,Self,YES
+m,Black,yes,'United States',6,21,Parent,NO
+m,White+AC0-European,no,'United Kingdom',8,37,Self,YES
+f,Others,no,'United Kingdom',4,19,Self,NO
+m,Asian,no,'United Arab Emirates',4,32,Self,NO
+f,White+AC0-European,yes,Australia,10,46,Self,YES
+m,Black,no,France,2,29,Self,NO
+f,Black,no,France,2,30,Self,NO
+f,Latino,no,Bolivia,4,32,Relative,NO
+f,White+AC0-European,yes,'United States',4,35,Self,NO
+m,White+AC0-European,no,'United Kingdom',9,22,Self,YES
+f,White+AC0-European,no,'United States',4,32,Self,NO
+m,White+AC0-European,no,'United States',6,24,Relative,NO
+m,White+AC0-European,no,'United States',9,24,Relative,YES
+f,'Middle Eastern ',yes,'New Zealand',1,49,Parent,NO
+f,Asian,no,Malaysia,9,30,Self,YES
+f,Asian,no,Malaysia,9,30,Self,YES
+f,White+AC0-European,yes,'United Kingdom',9,35,Self,YES
+f,White+AC0-European,yes,'United Kingdom',7,35,Self,YES
+f,White+AC0-European,no,'United Kingdom',4,37,Self,NO
+m,White+AC0-European,no,'United Kingdom',5,43,Self,NO
+m,White+AC0-European,no,'United Kingdom',6,52,Self,NO
+m,White+AC0-European,no,'United Kingdom',10,44,Self,YES
+f,White+AC0-European,no,'United Kingdom',2,46,Self,NO
+f,White+AC0-European,no,Australia,3,42,Self,NO
+m,Asian,no,Aruba,1,20,Self,NO
+m,'Middle Eastern ',no,'New Zealand',7,18,Self,YES
+m,White+AC0-European,no,Finland,9,38,Relative,YES
+f,Latino,no,Mexico,4,24,Self,NO
+m,Turkish,no,'United States',4,29,Self,NO
+f,White+AC0-European,no,'United States',9,22,Self,YES
+f,White+AC0-European,yes,'United Kingdom',6,19,Self,NO
+f,White+AC0-European,no,'United States',9,39,Self,YES
+m,Black,no,'United States',8,17,Self,YES
+f,'Middle Eastern ',no,Iceland,6,19,Parent,NO
+m,White+AC0-European,no,Australia,4,18,Parent,NO
+f,Turkish,no,Turkey,2,28,Self,NO
+m,Asian,no,'New Zealand',4,29,Self,NO
+m,White+AC0-European,no,Australia,4,48,Self,NO
+f,White+AC0-European,yes,Netherlands,9,27,Self,YES
+f,White+AC0-European,no,'United Kingdom',3,34,Self,NO
+m,White+AC0-European,no,Australia,4,31,Self,NO
+m,White+AC0-European,no,'United Kingdom',10,44,Self,YES
+f,White+AC0-European,no,'United States',4,25,Self,NO
+f,White+AC0-European,no,'United States',4,25,Self,NO
+m,White+AC0-European,no,'United Kingdom',8,20,Self,YES
+m,White+AC0-European,yes,'New Zealand',9,43,Self,YES
+f,White+AC0-European,no,'United Kingdom',8,36,Self,YES
+f,Asian,no,'United States',3,30,Self,NO
+m,Black,no,'United Kingdom',2,44,Self,NO
+f,Black,no,'United Kingdom',4,40,Parent,NO
+f,Black,yes,'United Kingdom',6,40,Relative,NO
+f,Black,yes,'United Kingdom',7,40,Relative,YES
+m,Others,no,'United States',7,30,Self,YES
+f,White+AC0-European,no,'United Kingdom',5,47,Self,NO
+m,Black,no,Brazil,10,21,Self,YES
+m,Black,no,Brazil,9,21,Self,YES
+f,Asian,no,'New Zealand',3,21,Self,NO
+f,Asian,no,'United States',5,29,Self,NO
+m,'Middle Eastern ',no,Afghanistan,6,22,Self,NO
+m,White+AC0-European,yes,'United Kingdom',10,51,Self,YES
+m,Asian,no,India,4,30,Self,NO
+m,Others,no,India,3,22,Self,NO
+m,Asian,no,'New Zealand',4,22,Self,NO
+m,Asian,no,India,5,24,Self,NO
+f,'South Asian',no,India,3,26,Self,NO
+f,Asian,no,India,6,33,Parent,NO
+m,Asian,no,India,3,23,Self,NO
+f,Asian,no,India,3,42,Self,NO
+f,Asian,no,India,2,26,Self,NO
+f,Asian,no,'New Zealand',2,29,Self,NO
+f,Asian,no,India,3,35,Self,NO
+f,'South Asian',no,India,4,25,Self,NO
+m,Asian,no,'Sri Lanka',3,25,Self,NO
+f,Asian,yes,India,1,28,Self,NO
+m,White+AC0-European,no,Germany,1,33,Self,NO
+m,Asian,no,India,4,25,Self,NO
+m,Asian,no,India,5,25,Self,NO
+m,Asian,no,India,4,24,Self,NO
+f,'South Asian',no,India,5,27,Self,NO
+m,'South Asian',no,India,1,22,Self,NO
+f,'South Asian',no,India,5,21,Self,NO
+f,'South Asian',no,India,6,27,Self,NO
+m,'South Asian',no,India,3,23,Self,NO
+m,Asian,no,India,4,22,Self,NO
+f,'South Asian',no,India,2,23,Self,NO
+m,Asian,no,India,4,30,Self,NO
+m,Asian,no,India,4,33,Self,NO
+f,'South Asian',no,India,7,24,Self,YES
+f,Asian,no,'New Zealand',4,22,Self,NO
+m,Asian,no,'New Zealand',7,22,Self,YES
+f,'South Asian',no,India,3,29,Self,NO
+f,Asian,no,India,6,22,Self,NO
+m,Asian,yes,India,3,21,Self,NO
+m,Asian,no,India,3,23,Self,NO
+f,Others,no,India,5,23,Self,NO
+f,Asian,no,India,6,23,Self,NO
+m,Asian,no,'Sri Lanka',6,32,Self,NO
+m,Asian,no,'Sri Lanka',2,27,Self,NO
+f,Asian,no,India,2,28,Parent,NO
+f,'Middle Eastern ',no,India,6,25,Self,NO
+m,Black,no,Nepal,7,22,Self,YES
+m,White+AC0-European,no,'United Kingdom',4,36,Self,NO
+f,White+AC0-European,no,Germany,10,21,Self,YES
+m,Black,no,'United States',5,18,Self,NO
+m,Black,no,Mexico,7,49,Parent,YES
+m,Asian,no,Indonesia,4,18,Self,NO
+m,Latino,no,'United States',7,29,Self,YES
+f,'Middle Eastern ',no,'New Zealand',1,37,Parent,NO
+m,'Middle Eastern ',yes,'New Zealand',6,17,Parent,NO
+f,'Middle Eastern ',no,Jordan,4,38,Self,NO
+m,White+AC0-European,yes,Angola,5,18,Parent,NO
+f,'Middle Eastern ',no,'United Arab Emirates',4,31,Self,NO
+m,'Middle Eastern ',yes,'United Arab Emirates',3,33,Self,NO
+f,'Middle Eastern ',yes,Jordan,2,32,Self,NO
+f,White+AC0-European,no,Canada,10,30,Self,YES
+m,Asian,no,'United States',9,30,Self,YES
+f,White+AC0-European,no,'United Kingdom',5,38,Self,NO
+m,Asian,no,India,5,22,Self,NO
+m,others,no,'United States',5,36,Self,NO
+f,White+AC0-European,no,France,8,20,Self,YES
+f,Others,yes,Australia,9,40,Self,YES
+m,White+AC0-European,no,Italy,5,25,Self,NO
+m,White+AC0-European,no,Australia,4,28,Self,NO
+m,White+AC0-European,no,Canada,3,17,Self,NO
+m,White+AC0-European,no,'United States',9,34,Self,YES
+f,'Middle Eastern ',no,'New Zealand',3,50,Parent,NO
+m,White+AC0-European,no,'United States',4,38,Self,NO
+m,White+AC0-European,no,'United States',10,47,Self,YES
+m,Others,no,'United States',9,30,Self,YES
+m,Hispanic,no,'United States',7,21,Self,YES
+m,White+AC0-European,no,Ireland,8,21,Self,YES
+m,Latino,no,Mexico,8,31,Self,YES
+f,White+AC0-European,yes,'Czech Republic',6,27,Self,NO
+f,White+AC0-European,yes,'United States',5,24,Self,NO
+m,White+AC0-European,yes,'United Kingdom',4,35,Parent,NO
+m,Black,no,Ethiopia,3,18,'Health care professional',NO
+f,Black,no,'United States',8,43,Self,YES
+m,White+AC0-European,no,Afghanistan,10,44,Self,YES
+m,White+AC0-European,yes,'United Kingdom',10,40,Parent,YES
+f,Hispanic,no,'United States',9,49,Self,YES
+m,Hispanic,no,'United States',3,24,Self,NO
+f,White+AC0-European,yes,'United States',4,30,Self,NO
+m,Hispanic,no,'United States',4,53,Relative,NO
+m,White+AC0-European,no,Belgium,7,38,Self,YES
+m,White+AC0-European,no,'United States',5,28,Self,NO
+m,White+AC0-European,no,'United States',9,28,Self,YES
+m,Black,no,Canada,8,26,Self,YES
+f,White+AC0-European,no,Canada,7,39,Self,YES
+f,Asian,yes,India,1,31,Self,NO
+m,Black,no,'United States',4,24,Self,NO
+m,White+AC0-European,no,'United States',8,28,Self,YES
+f,White+AC0-European,no,'United Kingdom',4,31,Self,NO
+m,White+AC0-European,yes,'United States',7,27,Self,YES
+m,Latino,no,Brazil,5,28,Parent,NO
+m,Turkish,no,Australia,9,31,Self,YES
+f,Asian,no,Philippines,6,46,Self,NO
+f,Pasifika,no,Australia,10,27,Self,YES
+f,White+AC0-European,no,Russia,7,25,Self,YES
+m,Hispanic,no,Mexico,3,34,Parent,NO
+m,'South Asian',no,Pakistan,6,35,Self,NO
+f,White+AC0-European,no,Cyprus,8,26,Self,YES
